@@ -19,6 +19,7 @@ customize:
         gravatar: fizzter149@gmail.com
         author: Hafizh Hasrindra
         author_title: Software Writer
+        author_subtitle: notes for future me
         location: Jakarta, Indonesia
         follow: https://twitter.com/hfizh
     highlight: solarized-dark # monokai
@@ -27,11 +28,13 @@ customize:
     favicon: # path to favicon
     social_links:
         github: https://github.com/fizzter149
+        linkedin: https://linkedin.com/in/hafizhhasrindra
         twitter: https://twitter.com/hfizh
         facebook: https://facebook.com/hafizh.hasrindra
-        linkedin: https://linkedin.com/in/hafizhhasrindra
+        instagram: https://instagram.com/fizzter149
         globe: http://florindra.com
-    social_link_tooltip: true # enable the social link tooltip, options: true, false
+        send: mailto:fizzter149@gmail.com
+    social_link_tooltip: false # enable the social link tooltip, options: true, false
 
 # Widgets
 widgets:
@@ -55,13 +58,13 @@ comment:
     youyan: # enter youyan uid here
 
 # Share
-share: default # options: jiathis, bdshare, addtoany, default
+share: addtoany # options: jiathis, bdshare, addtoany, default
 
 # Plugins
 plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
-    google_analytics: # enter the tracking ID for your Google Analytics
+    google_analytics: UA-63581806-2 # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
     baidu_analytics: # enter Baidu Analytics hash key
 
